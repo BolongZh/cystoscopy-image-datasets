@@ -7,3 +7,7 @@ procedure. Most images contain subtitles that may entail further preprocessing o
 This folder contains sample images. The whole dataset of images is too large to upload to github.
 
 Please contact me at saturnino at berkeley dot edu if you know other publicly available cystoscopy datasets or need more samples.
+
+## Department of Urology, Addenbrooke's Hospital
+Resolution is very low. Videos on youtube.
+https://www.camurology.org.uk/patient/surgical-videos/
